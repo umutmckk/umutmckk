@@ -26,4 +26,3 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=umutmckk&label=Profile%20views&color=1&icon=0&pretty=true" />
 </a>
-
